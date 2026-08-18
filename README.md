@@ -1,2 +1,5 @@
 # ceavi-code-review
-aula para usar o code review do github
+
+Aula para usar o code review do github
+
+Código do readme alterado
